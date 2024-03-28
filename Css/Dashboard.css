@@ -1,0 +1,47 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    max-height: 200vh;
+    font-family: "Edu NSW ACT Foundation", cursive;
+
+}
+
+
+.header {
+    height: 40vh;
+}
+
+.heading {
+    font-size: 5rem;
+}
+
+
+#addquestion {
+    position: relative;
+    left: 180px;
+}
+
+#showquestion {
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 40px 10px 40px 10px;
+    background-color: slategrey;
+    display: none;
+}
+
+
+
+.label {
+    font-weight: bold;
+}
+
+.input {
+    padding: 2px 1px 2px 1px;
+    border-radius: 5px;
+    width: 80rem;
+}
+
+.hand {
+    cursor: pointer;
+}

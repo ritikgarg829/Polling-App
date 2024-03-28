@@ -1,0 +1,34 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    max-height: 200vh;
+    font-family: "Edu NSW ACT Foundation", cursive;
+
+}
+
+#singlequestion>h2 {
+    font-size: 6rem;
+    margin-top: 6rem;
+}
+
+#singlequestion>span {
+    font-size: 3rem;
+    margin-left: 2rem;
+}
+
+.submit {
+    position: relative;
+    top: 2rem;
+    left: 1rem;
+    padding: 0.5rem;
+    width: 7rem;
+    transition: all 0.5s;
+
+}
+
+.submit:hover {
+    transform: rotate(360deg);
+
+
+}

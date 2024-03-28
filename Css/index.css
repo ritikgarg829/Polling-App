@@ -1,0 +1,23 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    max-height: 200vh;
+    font-family: "Edu NSW ACT Foundation", cursive;
+
+}
+
+
+.header {
+    height: 90vh;
+}
+
+.heading {
+    font-size: 10rem;
+}
+
+.login {
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+}
